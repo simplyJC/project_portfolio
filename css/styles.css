@@ -144,12 +144,22 @@ padding: 20px;
       font-size: 2rem;
       line-height: 1.5;
       font-weight: bold;
-      color:black;
+
      
 
     }
     .navbar-brand{
       font-size: 2rem;
     }
-   
+  
+}
+/* Footer Section */
+#footer{
+ padding:  3% 15%;
+ background-color: #3aafa9;
+ text-align: center;
+ padding: 10px 10px;
+}
+.social-icon{
+  margin: 20px 10px; 
 }
