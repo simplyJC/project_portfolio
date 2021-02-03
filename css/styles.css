@@ -144,9 +144,12 @@ padding: 20px;
       font-size: 2rem;
       line-height: 1.5;
       font-weight: bold;
+      color:black;
+     
+
     }
     .navbar-brand{
       font-size: 2rem;
     }
-
+   
 }
